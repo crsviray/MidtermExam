@@ -16,12 +16,16 @@
     "npm",
     "sublime",
     "github",
-    "express"
+    "express",
+    "Cris"
   ],
   "author": "Cris Baldwin Viray",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/crsviray/MidtermExam/issues"
   },
-  "homepage": "https://github.com/crsviray/MidtermExam#readme"
+  "homepage": "https://github.com/crsviray/MidtermExam#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
 }
